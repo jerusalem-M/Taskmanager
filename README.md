@@ -1,9 +1,5 @@
 # Simple Task Manager
 
-A clean and responsive task manager web app built with HTML, CSS (Bootstrap 5), and vanilla JavaScript.
-
-## Features
-
 - Add new tasks
 - Mark tasks as completed (with a strikethrough effect)
 - Delete tasks
